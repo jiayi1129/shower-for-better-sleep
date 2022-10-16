@@ -1,8 +1,8 @@
 {
   "configVersion": "v2",
   "app": {
-    "appId": 23961,
-    "appName": "Empty",
+    "appId": 1011065,
+    "appName": "Shower for Better Sleep",
     "appType": "app",
     "version": {
       "code": 1,
@@ -10,7 +10,7 @@
     },
     "icon": "icon.png",
     "vender": "zepp",
-    "description": "empty application"
+    "description": "An application that tracks your shower to improve sleep quality."
   },
   "permissions": [
     "data:os.device.info",
@@ -57,7 +57,7 @@
   },
   "i18n": {
     "en-US": {
-      "appName": "Empty"
+      "appName": "Shower for Better Sleep"
     }
   },
   "defaultLanguage": "en-US"

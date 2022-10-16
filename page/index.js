@@ -30,8 +30,8 @@ Page({
       w: 400,
       h: 100,
       radius: 12,
-      normal_color: 0xfc6950,
-      press_color: 0xfeb4a8,
+      normal_color: 0x004aad,
+      press_color: 0x5ce1e6,
       text: "Start",
       click_func: (button_widget) => {
         const currentTime = time.getTime()
@@ -77,8 +77,8 @@ Page({
       w: 100,
       h: 50,
       radius: 12,
-      normal_color: 0xfc6950,
-      press_color: 0xfeb4a8,
+      normal_color: 0x004aad,
+      press_color: 0x5ce1e6,
       text: "See Sleep",
       click_func: () => {
         replace({
@@ -87,7 +87,7 @@ Page({
       }
     })
 
-    
+
   },
   getBodyTemperature() {
     return 38
